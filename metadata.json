@@ -1,0 +1,5 @@
+{
+  "name": "TheoryBot",
+  "description": "A music theory app that generates visualizations of scales and chords, and can generate high-quality music theory posters using Gemini.",
+  "requestFramePermissions": []
+}
